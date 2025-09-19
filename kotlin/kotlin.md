@@ -4,3 +4,5 @@
 - [[jetpack_compose_todo_app]]
 - [[updating_flutter_app_to_compose]]
 - [[kotlinx_datetime_crashcourse]]
+- [[compose_crash_course_android_development]]
+- [[compose_libraries]]
