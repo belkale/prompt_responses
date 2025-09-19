@@ -3,3 +3,4 @@
 - [[jetpack_compose_material_3]]
 - [[jetpack_compose_todo_app]]
 - [[updating_flutter_app_to_compose]]
+- [[kotlinx_datetime_crashcourse]]
