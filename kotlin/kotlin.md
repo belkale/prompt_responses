@@ -10,4 +10,5 @@
 - [[generating_agentmd_for_android]]
 - [[kotlin_flow_testing_with_turbine]]
 - [[gemini_in_android_studio_guide]]
+- [[reminder_model_domain_design]]
 
