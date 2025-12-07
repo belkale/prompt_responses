@@ -13,4 +13,5 @@
 - [[reminder_model_domain_design]]
 - [[java_date_time_kotlin]]
 - [[notifications_with_compose]]
+- [[compose_coroutines_and_scopes]]
 
