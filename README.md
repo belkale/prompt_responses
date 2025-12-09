@@ -3,3 +3,4 @@
 - [[kotlin]]
 - [[health]]
 - [[finance]]
+- [[Scala]]
