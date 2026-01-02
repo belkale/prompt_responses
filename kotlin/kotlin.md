@@ -15,4 +15,5 @@
 - [[notifications_with_compose]]
 - [[compose_coroutines_and_scopes]]
 - [[publishing_jetpack_compose_android_app]]
+- [[kotlin_collections]]
 
