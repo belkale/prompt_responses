@@ -1,2 +1,3 @@
 - [[south_indian_vegetarian_nutrition_plan]]
 - [[simple_palak_soup_recipe]]
+- [[benefits_of_eating_sprouts]]
