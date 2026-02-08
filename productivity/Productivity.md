@@ -1,1 +1,2 @@
 - [[personal_knowledge_management_explained]]
+- [[photos_backup]]
