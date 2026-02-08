@@ -1,7 +1,5 @@
 # I have an unused laptop at home which has 500 GB of storage. I would like to store photos in that and I am ok with syncing it every night with my mobile. But I would prefer the sync to happen automatically. I can keep the laptop switched on for one hour everyday in the night. What software do I need?
 
-Since you are switching from a Cloud/Serverless approach to a Local Network approach, you no longer need AWS. You need a **Peer-to-Peer (P2P) synchronization tool**.
-
 Given your constraints (Laptop on for 1 hour, local network, automatic sync), the best software for this is **Syncthing**.
 
 ### The Recommendation: Syncthing
