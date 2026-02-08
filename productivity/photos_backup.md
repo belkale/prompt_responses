@@ -67,3 +67,131 @@ If Syncthing feels too technical:
     *   **Laptop:** Right-click a folder -> Properties -> Sharing -> Share. (This creates a Windows SMB share).
     *   **Mobile:** Install the **PhotoSync** app. Connect to "SMB / Windows Share."
     *   **Feature:** You can set a "trigger" so that the moment your phone connects to your home Wi-Fi (and is charging), it starts uploading to the laptop.
+
+# Give the complete solution for photos sync and viewing using Immich
+
+This is the best route. **Immich** effectively turns your unused Linux laptop into a private Google Photos clone. It handles the **backup** (syncing) and the **viewing** (timeline, map view, facial recognition) in a single interface.
+
+Here is the complete, step-by-step guide to setting this up on your Linux laptop.
+
+### Phase 1: Prepare the Laptop (One-time Setup)
+
+Since your mobile needs to find the laptop every night, the laptop needs a fixed address on your Wi-Fi.
+
+**1. Find your IP Address:**
+Open the terminal on your Linux laptop and type:
+```bash
+ip addr show
+```
+Look for `inet 192.168.1.X` (or similar). Note this IP down.
+*Tip: It is best to go into your Router settings and set a "Static IP Reservation" for this laptop so the IP never changes.*
+
+**2. Install Docker:**
+Immich runs inside a "container" (Docker), which makes it easy to install and update.
+```bash
+# Update your system
+sudo apt update && sudo apt upgrade -y
+
+# Install Docker and Docker Compose
+sudo apt install docker.io docker-compose-v2 -y
+
+# Allow your user to run Docker without "sudo" (Replace 'your_username' with your actual user)
+sudo usermod -aG docker $USER
+
+# RESTART your laptop now for this to take effect.
+sudo reboot
+```
+
+---
+
+### Phase 2: Install Immich
+
+**1. Create a folder for Immich:**
+After the reboot, open the terminal:
+```bash
+mkdir ~/immich-app
+cd ~/immich-app
+```
+
+**2. Download the configuration files:**
+```bash
+wget https://github.com/immich-app/immich/releases/latest/download/docker-compose.yml
+wget https://github.com/immich-app/immich/releases/latest/download/example.env -O .env
+```
+
+**3. Configure the Storage (Important):**
+You need to edit the `.env` file to tell Immich where to store your photos on that 500GB drive.
+```bash
+nano .env
+```
+*   Look for the line `UPLOAD_LOCATION=./library`.
+*   You can leave this as is (it will store photos inside `~/immich-app/library`).
+*   **Or**, if you have a specific hard drive partition mounted elsewhere, change it to that path (e.g., `UPLOAD_LOCATION=/mnt/MyBigDrive/Photos`).
+
+*   **Security:** In the same file, look for `DB_PASSWORD=postgres`. Change `postgres` to a secure password.
+
+Press `Ctrl+O`, `Enter` to save, and `Ctrl+X` to exit.
+
+**4. Start the Server:**
+```bash
+docker compose up -d
+```
+*It will take a few minutes to download the necessary files (Images, Database, AI models).*
+
+---
+
+### Phase 3: Connect the Mobile App
+
+**1. Access the Dashboard:**
+On your laptop browser, go to `http://localhost:2283`.
+*   Click **"Getting Started"**.
+*   Create your Admin Account (Email and Password).
+
+**2. Install the Mobile App:**
+*   **Android:** Download "Immich" from the Play Store.
+*   **iOS:** Download "Immich" from the App Store.
+
+**3. Login:**
+*   **Server Endpoint:** `http://<your-laptop-ip>:2283` (e.g., `http://192.168.1.50:2283`).
+*   **Email/Password:** Use the admin credentials you just created.
+
+---
+
+### Phase 4: Configure the "Sync" (For your 1-hour window)
+
+Since your laptop is only on for one hour, we need to make sure the sync is aggressive when it connects.
+
+**1. In the Mobile App:**
+*   Tap the **Cloud Icon** (top right) or go to Settings > Backup.
+*   **Select Albums:** Choose which folders to back up (Camera, WhatsApp, Instagram, etc.).
+*   Tap **"Start Backup"**.
+
+**2. Optimize for the "Nightly Window":**
+*   **Android:** Go to Android Settings > Apps > Immich > Battery. Set it to **"Unrestricted"**. Enable **"Background Usage"**.
+    *   *In Immich Settings:* Enable "Backup in background" and "Only on Wi-Fi".
+*   **iOS:** Apple kills background processes strictly. For the best result, **leave the Immich app open** on your screen when you plug your phone in at night.
+
+**3. How the Nightly Routine works:**
+1.  **10:00 PM:** Laptop turns on (via BIOS alarm or you pressing the button). Immich starts automatically in the background.
+2.  **10:05 PM:** You plug your phone into the charger.
+3.  **The Sync:**
+    *   **Android:** Should detect the server is online and start uploading silently.
+    *   **iOS:** Open the app once to trigger the handshake.
+4.  **11:00 PM:** Laptop shuts down.
+
+---
+
+### Phase 5: Viewing the Photos
+
+You don't need to do anything extra here.
+*   Open the Immich app on your phone.
+*   The "Timeline" tab shows all your synced photos (fetched from the laptop database).
+*   The "Search" tab lets you search by objects ("Car", "Tree") or Faces, powered by the AI running on your laptop.
+
+### Maintenance (How to update)
+Immich improves very fast. Once a month, when your laptop is on, run this command in the terminal to update it:
+
+```bash
+cd ~/immich-app
+docker compose pull && docker compose up -d
+```
