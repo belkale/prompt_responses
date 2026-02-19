@@ -58,3 +58,45 @@ For a simple, stress-free execution of your 10% bucket:
 
 **Important Execution Tip:**
 Since regulatory limits can change overnight, the **ETF route** (buying like a stock via Demat) is the most permanent solution. If you do not have a Demat account and rely only on SIPs, **PGIM India Global Equity** and **Franklin India Feeder - Franklin US Opportunities** are currently your most stable Mutual Fund choices.
+
+# What if I want to invest in an index or passive fund? What are my best options?
+
+For a passive or index-based approach to global investing, the options in India are slightly more limited due to the regulatory caps, but you can still build a robust "DIY" global portfolio.
+
+Since there is no single **"All Country World Index" (ACWI)** passive fund currently available to Indian retail investors, the best strategy is to combine a **US-focused ETF** (which covers ~60% of the world market) with a **Non-US fund**.
+
+Here is the best passive investment plan for your **10% global allocation**:
+
+### **Option 1: The "DIY" Global Passive Portfolio (Recommended)**
+This strategy splits your 10% allocation into two parts to cover the entire developed world.
+
+| Component | Allocation | Recommended Fund/ETF | Why this fund? |
+| :--- | :--- | :--- | :--- |
+| **US Market** (The Core) | **70%** (of the 10%) | **Motilal Oswal Nasdaq 100 ETF (MON100)** <br> *Type: ETF (Demat required)* | This acts as your growth engine. It tracks the top 100 non-financial US companies (Apple, Microsoft, Google). Since it's an ETF, you can buy/sell it anytime without worrying about mutual fund subscription limits. |
+| **Ex-US Market** (Rest of World) | **30%** (of the 10%) | **Motilal Oswal Developed Market Ex US ETFs FoF** <br> *Type: Fund of Fund* | This fund specifically invests in developed markets *outside* the US (Europe, Japan, Canada), balancing out the US-heavy tech exposure. |
+
+> **Note:** If you prefer the broader **S&P 500** (500 companies) over the Nasdaq 100, use the **Mirae Asset S&P 500 Top 50 ETF** or check if your platform allows lumpsum investments in the **Motilal Oswal S&P 500 Index Fund**.
+
+### **Option 2: Broadest Single US Passive Fund**
+If you want the simplest single passive fund that covers the maximum number of companies (Small, Mid, and Large cap) in the US:
+*   **Fund Name:** **Navi US Total Stock Market Fund of Fund**
+*   **Benchmark:** CRSP US Total Market Index (Invests in Vanguard VTI).
+*   **Status:** **Check Availability.** Some platforms show "Invest Now" while others show restricted. If available, this is an excellent low-cost option that covers 100% of the US investable market, not just the top 100/500 companies.
+
+### **Important: ETF vs. Fund of Funds**
+Given the regulatory uncertainty, **ETFs (Exchange Traded Funds)** are safer for long-term continuity.
+*   **Mutual Funds (FoFs)** rely on the fund house having "quota" to send money abroad. If the industry limit is hit, they stop taking your SIPs.
+*   **ETFs** (like MON100) are traded between investors on the stock exchange. They rarely stop trading, ensuring you can always invest or withdraw.
+
+### **Taxation for Passive International Funds (FY 2025-26)**
+The taxation rules have been updated and are now more favorable for long-term holding than they were in 2023-24.
+
+*   **Held < 24 Months (Short Term):** Gains are added to your income and taxed at your **Slab Rate**.
+*   **Held > 24 Months (Long Term):** Gains are taxed at **12.5%** (No indexation benefit).
+    *   *Note:* International equity funds are generally treated as "Non-Equity" for tax purposes but usually qualify for the 12.5% rate after 2 years under the new rules (unlike pure Debt funds).
+
+### **Summary of Action Plan**
+1.  **Open a Demat Account** (if you haven't already) to access ETFs.
+2.  **Buy `MON100` (Motilal Nasdaq 100 ETF)** for your core US exposure.
+3.  **Start an SIP** in **Motilal Oswal Developed Market Ex US ETFs FoF** for non-US exposure.
+4.  **Ignore** "Global" thematic funds (like AI, Power, etc.) if your goal is pure diversification. Stick to broad indices.
