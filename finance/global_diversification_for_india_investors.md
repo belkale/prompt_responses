@@ -100,3 +100,48 @@ The taxation rules have been updated and are now more favorable for long-term ho
 2.  **Buy `MON100` (Motilal Nasdaq 100 ETF)** for your core US exposure.
 3.  **Start an SIP** in **Motilal Oswal Developed Market Ex US ETFs FoF** for non-US exposure.
 4.  **Ignore** "Global" thematic funds (like AI, Power, etc.) if your goal is pure diversification. Stick to broad indices.
+
+# Motilal Oswal Nasdaq 100 ETF and other global etfs are traded at a premium. What other options do I have?
+
+You are right to be concerned. Many international ETFs in India (like `MAFANG` or `MON100`) often trade at a price higher than their actual NAV (Net Asset Value) due to liquidity shortages. This means you might pay ₹110 for something worth ₹100, instantly losing value.
+
+Since you want to **avoid premiums** and prefer **Index/Passive** options, here are your best "Mutual Fund" alternatives (Fund of Funds) that transact at **NAV**, not market price.
+
+### **1. Best Passive Alternative (S&P 500)**
+This is currently the best direct mutual fund substitute for the US markets that avoids the ETF premium issue.
+*   **Fund:** **Motilal Oswal S&P 500 Index Fund**
+*   **Type:** Index Fund (Mutual Fund)
+*   **Status:** **Open** for Subscription (Lumpsum & SIP).
+*   **Why:**
+    *   It tracks the S&P 500 (top 500 US companies), which is more diversified than the Nasdaq 100.
+    *   **No Premium Risk:** You buy and sell directly with the fund house at the day’s NAV. You don't have to worry if the ETF is trading at a premium on the stock exchange.
+    *   **Expense Ratio:** ~0.65% (Direct Plan), which is reasonable.
+
+### **2. Best for US Tech Exposure (Active Route)**
+Since most passive Nasdaq 100 funds (like Kotak Nasdaq 100 FoF) face intermittent subscription suspensions, you may need to use an "Active" fund that mirrors the tech-heavy growth of the Nasdaq but is currently **open**.
+*   **Fund:** **Franklin India Feeder - Franklin US Opportunities Fund**
+*   **Type:** Active Fund of Fund (Feeder Fund)
+*   **Status:** **Open**.
+*   **Why:**
+    *   It invests in the *Franklin U.S. Opportunities Fund*, which focuses on high-growth companies (Nvidia, Amazon, Microsoft, etc.).
+    *   While it has a higher expense ratio (~1.5%) than an index fund, it has a long track record (10+ years) of navigating US market cycles and is always available for investment.
+
+### **3. Best for "DIY" Global Passive (ETF FoF Route)**
+If you still want the Nasdaq 100 or specific developed markets but want to avoid the hassle of buying ETFs on the exchange:
+*   **Fund:** **Motilal Oswal Developed Market Ex US ETFs Fund of Fund**
+*   **Status:** **Open**.
+*   **Why:** It invests in low-cost Vanguard/iShares ETFs that track Europe, Japan, and Canada. This pairs perfectly with the S&P 500 fund above to give you the "Total World" exposure you wanted.
+
+---
+
+### **Summary of Your "No-Premium" Global Plan**
+To maintain your **10% Global Allocation** without paying premiums:
+
+| Allocation | Fund Name | Role |
+| :--- | :--- | :--- |
+| **7%** | **Motilal Oswal S&P 500 Index Fund** | **Core US Exposure.** Replaces the Nasdaq ETF. Buys at NAV. |
+| **3%** | **Edelweiss Europe Dynamic Equity Offshore Fund** | **Diversification.** Captures Europe (luxury, pharma, industrials) to balance US Tech. |
+
+**Execution Strategy:**
+*   Use **Coin/Groww/Kuvera** (or any Direct Mutual Fund platform) to set up SIPs in these funds.
+*   **Avoid** "Mirae Asset NYSE FANG+ ETF" or "MON100" *if* you see the market price is significantly higher than the NAV on your trading app (usually shown as "iNAV"). Buying the Mutual Fund versions above solves this problem automatically.
