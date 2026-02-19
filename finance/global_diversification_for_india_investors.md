@@ -1,63 +1,60 @@
 # What are the best mutual funds to invest for global exposure? I am investing for the long term and main purpose of global exposure is diversification. I have 60:10:30 indian equity:foreign equity:debt allocation plan. So basically I want to invest 10% of my money in foreign equity.
 
-This is a sound asset allocation plan. Allocating 10% to foreign equity is a great way to hedge against rupee depreciation and gain exposure to global giants (like Apple, Microsoft, Alphabet) that are not listed in India.
+As of early 2026, investing in international mutual funds in India is slightly complex due to regulatory limits imposed by SEBI/RBI on overseas investments. Many popular funds pause and resume subscriptions based on available "headroom" in the industry-wide limit.
 
-However, before looking at specific funds, there are two major hurdles you must be aware of as of January 2025:
+To meet your goal of **10% global diversification** with a long-term view, here is the best strategy and list of funds currently suitable for your 60:10:30 allocation plan.
 
-1.  **RBI Investment Limits:** The Reserve Bank of India (RBI) has an industry-wide limit on how much Indian Mutual Funds can invest overseas. This limit is frequently breached. Consequently, many schemes often **pause fresh lump sum investments** or restrict SIP amounts. You will need to check if the specific fund is accepting inflows at the time you wish to invest.
-2.  **Taxation:** As of April 1, 2023, international mutual funds are taxed as **Debt Funds**. Gains are added to your income and taxed as per your **income tax slab**, regardless of the holding period. Indexation benefits or the 12.5% LTCG rate (applicable to Indian equity) do **not** apply here.
-
-Given your goal is **diversification** (stability) rather than aggressive sector chasing, here are the best approaches and funds for that 10% allocation.
-
----
-
-### 1. The Core US Market (Passive)
-The United States represents roughly 60% of the global market cap. If the US market sneezes, the world catches a cold. For a simple 10% allocation, a broad US index is the best diversifier.
-
-*   **Fund:** **Motilal Oswal S&P 500 Index Fund** (or Bandhan S&P 500 Index Fund)
-*   **Why:** It tracks the top 500 companies in the US. It gives you exposure to Tech, Healthcare, Finance, and Consumer Goods. It is a passive fund with a low expense ratio.
-*   **Suitability:** This is the best fit for your specific requirement. It offers pure US exposure and hedges against the INR/USD currency fluctuation.
-
-### 2. The Tech Heavyweights (Aggressive)
-If you believe that US growth is driven primarily by technology and innovation, and you want higher returns than the S&P 500.
-
-*   **Fund:** **Motilal Oswal Nasdaq 100 Fund of Fund** (or Kotak Nasdaq 100 FOF)
-*   **Why:** This tracks the top 100 non-financial companies on Nasdaq. It is very heavy on technology (Apple, Microsoft, Nvidia, Amazon).
-*   **Risk:** It is highly volatile. Since you already have 60% in Indian equity, adding a highly volatile tech fund might increase portfolio risk rather than lower it. However, historically, it has provided massive returns.
-
-### 3. Active Global Funds (Diversified)
-If you do not want to restrict yourself only to the US and rely on a fund manager to pick stocks from across the world (Europe, US, Japan).
-
-*   **Fund:** **PGIM India Global Equity Opportunities Fund**
-*   **Why:** This is an actively managed fund that invests in a parent fund (PGIM Jennison Global Equity Opportunities Fund). It has a good track record of picking high-growth companies globally.
-*   **Fund:** **Franklin India Feeder - Franklin U.S. Opportunities Fund**
-*   **Why:** This is one of the oldest international funds in India. It invests in the US but is actively managed, meaning the manager can overweight or underweight sectors unlike an Index fund.
-
-### 4. Direct ETF Route (If Mutual Funds are Frozen)
-If the mutual funds mentioned above are not accepting fresh investments due to RBI limits, you can buy ETFs directly through your Demat account (like buying a stock).
-
-*   **Symbol:** **MON100** (Motilal Oswal Nasdaq 100 ETF)
-*   **Symbol:** **MASPTOP50** (Mirae Asset S&P 500 Top 50 ETF)
-*   **Warning:** Liquidity can be an issue. Ensure you place "Limit Orders" when buying so you don't buy at a price much higher than the actual NAV (iNAV).
+### **Current Investment Status (February 2026)**
+*   **Direct Mutual Funds:** Many schemes that invest directly in foreign stocks (like most S&P 500 index funds) face intermittent suspensions.
+*   **Fund of Funds (FoFs) & ETFs:** Schemes that invest in **foreign ETFs** have a separate limit and are generally more accessible.
+*   **Exchange Traded Funds (ETFs):** These are the most reliable option right now. They are listed on the stock exchange (NSE/BSE) and can be bought/sold anytime through a demat account, bypassing the subscription restrictions that affect mutual funds.
 
 ---
 
-### My Recommendation for your 10%
+### **Top Recommendations for Global Exposure**
 
-Since your main purpose is **diversification**, I suggest the following split for your 10% bucket:
+Since your goal is **diversification** (not just chasing US Tech returns), you should look beyond just the Nasdaq 100.
 
-**Option A (Simplicity):**
-*   **100% in S&P 500 Index Fund.**
-    *   *Reason:* It is the most balanced global index. It balances the volatility of the Indian market perfectly.
+#### **1. Best for True Global Diversification (Developed + Emerging Markets)**
+If you want a single fund that covers the world (US, Europe, Asia), this is your best active fund option.
+*   **Fund Name:** **PGIM India Global Equity Opportunities Fund**
+    *   **Region:** Global (US, Europe, Japan, etc.)
+    *   **Status:** **Open** (Resumed subscriptions as of Feb 6, 2026).
+    *   **Why:** Unlike US-centric funds, this invests in the *PGIM Jennison Global Equity Opportunities Fund*, giving you exposure to top companies worldwide (e.g., Nvidia, Eli Lilly, Hermes, MercadoLibre). It is a high-risk, high-reward active fund.
 
-**Option B (Growth + Stability):**
-*   **50% in S&P 500 Index Fund** (Stability)
-*   **50% in Nasdaq 100 Fund** (High Growth Tech)
-    *   *Reason:* You get the stability of the broad US economy plus the aggressive growth of the tech giants.
+#### **2. Best for US Market Exposure (The Core 10%)**
+The US market represents ~60% of the global equity market, so it's a safe proxy for "global" exposure.
+*   **Option A (Mutual Fund Route):** **Kotak Nasdaq 100 Fund of Fund**
+    *   **Status:** Currently accepting investments (as it invests in an overseas ETF, utilizing the separate $1B limit).
+    *   **Why:** Passive tracking of the top 100 non-financial US companies. Good for growth.
+*   **Option B (ETF Route - Recommended):** **Motilal Oswal Nasdaq 100 ETF (Symbol: MON100)**
+    *   **Status:** Always Buyable (Secondary Market).
+    *   **Why:** Highly liquid and bypasses AMC restriction issues.
 
-### Summary Checklist before investing:
-1.  **Check Status:** Open your broker app (Zerodha/Groww/Kuvera) and see if the fund is allowing "Lump Sum" or "SIP."
-2.  **Tax Impact:** Ensure you are comfortable paying tax at your slab rate on the gains.
-3.  **Alternative:** If you have a significant corpus (e.g., above ₹5-10 Lakhs for this 10% portion), you might consider opening a direct **US Investing Account** (via apps like Vested, IndMoney, or Schwab). This bypasses the Indian Mutual Fund restrictions, though it complicates tax filing slightly.
+#### **3. Best for Broader US Exposure (S&P 500)**
+If you prefer the S&P 500 (500 companies) over Nasdaq (100 tech-heavy companies) for better diversification:
+*   **Fund:** **Mirae Asset S&P 500 Top 50 ETF**
+    *   **Status:** Always Buyable on exchange.
+    *   **Note:** The *Motilal Oswal S&P 500 Index Fund* (mutual fund) often faces suspension. Checking the "Mirae Asset S&P 500 Top 50 ETF" is a safer bet for consistent investing.
 
-*Disclaimer: I am an AI, not a SEBI registered investment advisor. Please consult a financial planner before making investment decisions.*
+#### **4. Best for Non-US Diversification**
+If you want to specifically target Europe or Emerging markets to balance Indian/US volatility:
+*   **Edelweiss Europe Dynamic Equity Offshore Fund:** Focuses on European giants (lifestyle, pharma, industrial brands not available in India). Currently open.
+
+---
+
+### **Taxation for FY 2025-26**
+International funds are no longer taxed at your slab rate if you hold them long-term. This is a benefit compared to the rules from 2023-2025.
+*   **Held for less than 24 months:** Gains are added to your income and taxed at your **Slab Rate**.
+*   **Held for more than 24 months:** Gains are taxed at **12.5%** (without indexation).
+
+### **Sample Portfolio for Your 10% Allocation**
+For a simple, stress-free execution of your 10% bucket:
+
+| Allocation | Fund Name | Type | Rationale |
+| :--- | :--- | :--- | :--- |
+| **7%** | **PGIM India Global Equity Opportunities Fund** | Active FoF | True global diversification across geographies. |
+| **3%** | **Motilal Oswal Nasdaq 100 ETF** (or Kotak Nasdaq 100 FoF) | ETF / FoF | Concentrated US Tech growth to boost returns. |
+
+**Important Execution Tip:**
+Since regulatory limits can change overnight, the **ETF route** (buying like a stock via Demat) is the most permanent solution. If you do not have a Demat account and rely only on SIPs, **PGIM India Global Equity** and **Franklin India Feeder - Franklin US Opportunities** are currently your most stable Mutual Fund choices.
