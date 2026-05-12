@@ -115,3 +115,42 @@ Since you have a pull-up bar, the single best inexpensive gear you can buy is a 
 In your mid-forties, shoulder joints can sometimes be stiff, especially with a WFH lifestyle. When hanging from the bar, **keep your shoulders active**. Don't let your shoulders shrug completely up to your ears completely relaxed; keep a tiny bit of tension in your back and shoulders to protect the rotator cuff. 
 
 You now have a complete gym setup! The combination of dumbbells (for isolation), running (for cardio/legs), and the pull-up bar (for heavy back/core work) is all you need to get into the best shape of your life in just 30 minutes a day.
+
+# Give the weekly routine in a tabular format so that it is easy for me to follow
+
+Here is your complete routine formatted into easy-to-read tables. You can take a screenshot of these or print them out to keep near your desk and workout area.
+
+### 1. Daily WFH "Micro-Breaks" Schedule
+*Takes just 1–2 minutes per break. Do these in your regular work clothes to keep your metabolism active and fix your desk posture.*
+
+| Time | Exercise | Reps / Duration | Purpose |
+| :--- | :--- | :--- | :--- |
+| **11:00 AM** | **Push-ups** (Floor or against the wall) | 15 - 20 Reps | Wakes up chest and core. |
+| **01:30 PM** | **Bodyweight Squats** | 20 Reps | Gets blood flowing to legs before lunch. |
+| **04:00 PM** | **Dead Hang** (on Pull-up Bar) | 15 - 30 Seconds | Decompresses spine, stretches shoulders. |
+| **Anytime** | **Neck Rolls & Shoulder Shrugs** | 1 Minute | Relieves computer-screen neck strain. |
+
+---
+
+### 2. The 30-Minute Evening Routine
+**Rule of thumb for the 30 minutes:** 
+*   **Minutes 0–3:** Warm-up (Jogging in place, arm circles, torso twists).
+*   **Minutes 3–27:** Main Workout (See table below).
+*   **Minutes 27–30:** Cool-down (Deep breathing, light stretching on your yoga mat).
+
+**For Strength Days (Mon, Wed, Thu, Sat):** Do the exercises in a circuit. Perform Exercise 1 for 45 seconds, rest for 15 seconds, then move to Exercise 2. After finishing all 5 exercises, rest for 1 minute. **Complete 3 total rounds.**
+
+| Day | Focus | Main Workout (24 Minutes) | Equipment Needed |
+| :--- | :--- | :--- | :--- |
+| **Monday** | **Full Body Strength** | **1.** Goblet Squats (Hold one dumbbell at chest)<br>**2.** Dumbbell Floor Press (Lie on mat, press up)<br>**3.** Pull-ups OR Negative Pull-ups<br>**4.** Reverse Lunges (Step backwards)<br>**5.** Forearm Plank Hold | 5kg Dumbbell<br>5kg Dumbbells<br>Pull-up Bar<br>3kg/5kg Dumbbells<br>Yoga Mat |
+| **Tuesday** | **Outdoor Cardio** | **Run/Walk Intervals:**<br>Jog for 2 minutes, Walk briskly for 1 minute.<br>*Repeat this cycle 8 times.* | Running Shoes |
+| **Wednesday** | **Core & Posture** *(Recovery)* | **1.** Hanging Knee Raises<br>**2.** Glute Bridges (Lie on back, lift hips)<br>**3.** Superman Holds (Lie on stomach, lift chest/legs)<br>**4.** Bird-Dog (On all fours, extend opposite arm/leg)<br>**5.** Cat-Cow Stretch (Spine mobility) | Pull-up Bar<br>Yoga Mat<br>Yoga Mat<br>Yoga Mat<br>Yoga Mat |
+| **Thursday** | **Upper Body & Arms** | **1.** Dumbbell Shoulder Press (Seated or standing)<br>**2.** Chin-ups OR Isometric Bar Holds (Underhand grip)<br>**3.** Lateral Raises (Arms out to the side)<br>**4.** Overhead Tricep Extensions<br>**5.** Push-ups (On knees or toes) | 5kg Dumbbells<br>Pull-up Bar<br>3kg Dumbbells<br>One 5kg Dumbbell<br>Yoga Mat |
+| **Friday** | **Outdoor Cardio** | **Continuous Pace:**<br>Jog continuously at a comfortable pace where you can still speak in short sentences. | Running Shoes |
+| **Saturday** | **Lower Body & Core** | **1.** Dumbbell Deadlifts (Stiff-legged, hinge at hips)<br>**2.** Sumo Squats (Wide stance, toes pointed out)<br>**3.** Calf Raises (Stand on flat ground or a step)<br>**4.** Mountain Climbers (Fast pace)<br>**5.** Side Planks (30 seconds each side) | 5kg Dumbbells<br>One 5kg Dumbbell<br>3kg/5kg Dumbbells<br>Yoga Mat<br>Yoga Mat |
+| **Sunday** | **Active Rest** | **30-Minute Leisure Walk:**<br>No heavy breathing. Just move your joints and get some fresh air. | None |
+
+### Quick Tips for Reading the Table:
+*   **Pull-ups vs. Negatives:** If you can't pull yourself up yet, use a chair to get your chin over the bar, and lower yourself down as slowly as possible (this is a "Negative").
+*   **Chin-ups:** Palms facing *towards* you. This works your biceps more than standard pull-ups.
+*   **Progression:** When the 45-second work intervals start feeling too easy, try to squeeze in 2-3 extra repetitions within that same 45-second window to keep challenging your muscles!
