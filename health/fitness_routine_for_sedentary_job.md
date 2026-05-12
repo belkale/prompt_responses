@@ -154,3 +154,47 @@ Here is your complete routine formatted into easy-to-read tables. You can take a
 *   **Pull-ups vs. Negatives:** If you can't pull yourself up yet, use a chair to get your chin over the bar, and lower yourself down as slowly as possible (this is a "Negative").
 *   **Chin-ups:** Palms facing *towards* you. This works your biceps more than standard pull-ups.
 *   **Progression:** When the 45-second work intervals start feeling too easy, try to squeeze in 2-3 extra repetitions within that same 45-second window to keep challenging your muscles!
+
+# I need a way to keep time for doing the exercises in the circuit. Is ther a mobile app or an easy way for me to keep time for 30 mins. 45 secs exercise and 15 secs transition and 1 min break rest after 5 exercises. Also it has to do for a total of 3 rounds
+
+Yes, absolutely. You need an **Interval Timer**, which is specifically designed for this exact type of workout. Instead of constantly looking at your watch, these apps give you loud audio cues (like a whistle or a beep) so you can focus entirely on your exercises.
+
+Here are the best free mobile apps and exactly how to set them up for your routine. 
+
+### 1. Best Free Apps to Download (Available on Android & iPhone)
+
+*   **App 1: "Interval Timer - HIIT Workouts"** (Blue icon with a white stopwatch). *Highly recommended. It is very simple and visually clear.*
+*   **App 2: "Tabata Timer"** (Many free versions exist, usually a red or dark interface). *Great because the numbers are huge and easy to see from across the room.*
+*   **App 3: "Seconds"** (or Seconds Interval Timer). *Excellent app, very customizable, and lets you color-code different intervals.*
+
+---
+
+### 2. How to Configure the App (The Exact Setup)
+
+When you open any of these apps, they will ask you to set up your "Timer" or "Routine." You only need to set this up **once**, save it, and then just press "Start" every evening.
+
+Plug in these exact numbers:
+
+*   **Warm-up / Preparation:** 3:00 (3 Minutes)
+*   **Work (Exercise):** 0:45 (45 Seconds)
+*   **Rest (Transition):** 0:15 (15 Seconds)
+*   **Sets (Exercises per round):** 5 
+*   **Rest Between Rounds (Cycle Rest):** 1:00 (1 Minute)
+*   **Cycles (Total Rounds):** 3
+*   **Cool-down:** 3:00 (3 Minutes)
+
+*(Note: The total time for this specific circuit setup will run for exactly **23 minutes**. It perfectly fits your "under 30 mins" requirement!)*
+
+---
+
+### 3. The "No App" Alternative: YouTube
+
+If you don't want to download a new app, you can simply use **YouTube** on your phone, TV, or laptop. People have uploaded pre-made timer videos with background music and loud beeps.
+
+*   **How to do it:** Go to YouTube and search for: **"45 seconds on 15 seconds off timer 5 exercises 3 rounds"**.
+*   You will find dozens of videos that have a giant countdown clock on the screen and buzzers that tell you exactly when to start, stop, and take your 1-minute break.
+
+### 💡 Pro-Tips for Timing Your Workout:
+1.  **Use Audio Cues:** Make sure your phone volume is all the way up, or connect it to a Bluetooth speaker/earphones. The goal is to **never look at your phone**. When you hear the beep, start lifting. When you hear the buzzer, stop.
+2.  **The 15-Second Transition:** This is not time to sit down! Use these 15 seconds to put down your current dumbbells, take two deep breaths, pick up the gear for the next exercise, and get into the starting position. 
+3.  **The 1-Minute Rest:** Grab a quick sip of water, shake out your arms and legs, and prepare for the next round.
