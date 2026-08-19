@@ -151,7 +151,7 @@ Consumer spending accounts for nearly **70% of the U.S. economy**. That engine i
 
 A severe downturn is most likely to look like this:
 
-$$\text{Persistent High Rates/Debt Wall} \longrightarrow \text{CRE \& Private Credit Defaults} \longrightarrow \text{Regional Bank Credit Freeze} \longrightarrow \text{Layoffs \& Consumer Pullback}$$
+Persistent High Rates/Debt Wall -> CRE & Private Credit Defaults -> Regional Bank Credit Freeze -> Layoffs & Consumer Pullback
 
 If this domestic sequence coincides with an **external shock** (like a geopolitical trade disruption or an oil spike), central banks would find themselves stuck between fighting inflation and rescuing the economy, drastically prolonging the recovery.
 
