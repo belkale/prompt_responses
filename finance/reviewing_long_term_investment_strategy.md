@@ -408,7 +408,7 @@ If your total corpus is sized around a sustainable initial withdrawal rate of **
 * **Debt Bucket:** ~25% of your total portfolio
 * **Equity Bucket:** ~75% of your total portfolio
 
-$$\text{Portfolio Return} \approx (0.75 \times 12.0\%) + (0.25 \times 6.9\%) = 9.0\% + 1.72\% = \mathbf{10.7\%}$$
+`Portfolio Return ≈ (0.75 × 12.0%) + (0.25 × 6.9%) = 9.0% + 1.72% = 10.7%`
 
 | Metric | Conservative Estimate | Optimistic Estimate |
 | :--- | :---: | :---: |
